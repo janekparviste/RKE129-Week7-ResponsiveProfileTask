@@ -87,10 +87,10 @@
     /*muuda dokumendi taustavärvi*/
     /*muuda dokumendi tekstivärvi*/
     /*ära unusta ka raamjoonesid*/ 
-body {
-    background-color: rgb(110, 93, 172);
-    color: rgb(84, 227, 22);    
-}    
+    body {
+      background-color: rgb(110, 93, 172);
+     color: rgb(84, 227, 22);    
+    }    
     .container {
         width: 100%;
     }
